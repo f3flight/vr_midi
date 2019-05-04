@@ -1,0 +1,2 @@
+bass.dll, bassmidi.dll http://www.un4seen.com/ - requires commertial lisense (for a commertial projects)
+Bass.Net.dll http://www.un4seen.com/ - requires commertial lisense (for a commertial projects)
